@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "984740157858",
+    "project_id": "login-auth-test-14404",
+    "storage_bucket": "login-auth-test-14404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984740157858:android:15b1a0c156c79a83af7afb",
+        "android_client_info": {
+          "package_name": "com.example.loginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984740157858-24dqn0u431asnspan8aqbkrg9n9q3j4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmL_p0VR8zC1lJ6N_5bJ5HN1scb72-Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984740157858-24dqn0u431asnspan8aqbkrg9n9q3j4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984740157858-3vlafd5s3ff9nhv9jr2sqrnpenv4ba0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginauth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984740157858:android:bbeb6c9a612074a5af7afb",
+        "android_client_info": {
+          "package_name": "com.example.my_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984740157858-24dqn0u431asnspan8aqbkrg9n9q3j4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmL_p0VR8zC1lJ6N_5bJ5HN1scb72-Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984740157858-24dqn0u431asnspan8aqbkrg9n9q3j4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984740157858-3vlafd5s3ff9nhv9jr2sqrnpenv4ba0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginauth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984740157858:android:222e31b2dc8a9713af7afb",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984740157858-24dqn0u431asnspan8aqbkrg9n9q3j4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmL_p0VR8zC1lJ6N_5bJ5HN1scb72-Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984740157858-24dqn0u431asnspan8aqbkrg9n9q3j4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984740157858-3vlafd5s3ff9nhv9jr2sqrnpenv4ba0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginauth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
